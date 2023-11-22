@@ -1,0 +1,7 @@
+div.col-sm-2:has(.sidebar-nav) {
+    margin-top: 20px;
+    padding: 200px;
+    padding: 0;
+    list-style: none;
+    background-color: aquamarine;
+}
